@@ -1,5 +1,5 @@
 ## **Day 1: Fundamentals of Python**
-* 08:45-09:00 General Remarks (Brent)
+* 08:45-09:00 [General Remarks](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/00_GeneralRemarks/00_GeneralRemarks.ipynb) (Brent)
 * 09:00-09:45 Introduction to Python (Brent)
 * 09:45:10:00 **Break**
 * 10:00-11:00 Conditional Statements and Loops (Carlos)
