@@ -1,6 +1,6 @@
-## **Day 1: Fundamentals of Python**
+__Day 1: Fundamentals of Python__
 * 08:45-09:00 [General Remarks](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/00_GeneralRemarks/00_GeneralRemarks.ipynb) (Brent)
-* 09:00-09:45 [Introduction to Python](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/01_IntroPython/01_IntroPython.ipynb) (Brent)
+* 09:00-09:45 [Introduction to Python and Git Primer](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/01_IntroPython/01_IntroPython.ipynb) (Brent)
 * 09:45:10:00 **Break**
 * 10:00-11:00 [Conditional Statements and Loops](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/02_ConditionalsLoops/Conditional%20Statements%20and%20Loops.ipynb) (Carlos)
 * 11:00-12:00 [Basic Data Structures](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/03_DataStructures/Basic%20data%20structures.ipynb) (Carlos)
@@ -11,12 +11,12 @@
 * 15:15-16:00 [Modules](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/06_Modules/Modules.ipynb) (Brent)
 * 16:00-17:00 Introduction to Object Oriented Programming (Brent)
 
-## **Day 2: Data Manipulations**
+__Day 2: Data Manipulations__
 * 08:45-10:00 File I/O and Exception Handling (Carlos)
 * 10:00-10:15 **Break**
-* 10:15-11:00 TBD
-* 11:00-12:00 Introduction to Numpy (Jules)
-* 12:00-13:00 **Lunch Break**
-* 13:00-14:30 Introduction to Matplotlib (Jules)
+* 10:15-11:15 Introduction to NumPy (Jules)
+* 11:15-12:15 Introduction to Matplotlib (Jules)
+* 12:15-13:15 **Lunch Break**
+* 13:15-14:30 Introduction to SciPy (Jules)
 * 14:30-14:45 **Break**
 * 14:45-16:00 Introduction to Pandas (Carlos)
