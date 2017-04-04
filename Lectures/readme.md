@@ -1,14 +1,14 @@
 ## **Day 1: Fundamentals of Python**
 * 08:45-09:00 [General Remarks](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/00_GeneralRemarks/00_GeneralRemarks.ipynb) (Brent)
-* 09:00-09:45 Introduction to Python (Brent)
+* 09:00-09:45 [Introduction to Python](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/01_IntroPython/01_IntroPython.ipynb) (Brent)
 * 09:45:10:00 **Break**
-* 10:00-11:00 Conditional Statements and Loops (Carlos)
-* 11:00-12:00 Basic Data Structures (Carlos)
+* 10:00-11:00 [Conditional Statements and Loops](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/02_ConditionalsLoops/Conditional%20Statements%20and%20Loops.ipynb) (Carlos)
+* 11:00-12:00 [Basic Data Structures](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/03_DataStructures/Basic%20data%20structures.ipynb) (Carlos)
 * 12:00-13:00 **Lunch Break**
-* 13:00-14:00 Functions (Brent)
-* 14:00-15:00 Comprehensions and basic functional programming (Carlos)
+* 13:00-14:00 [Functions](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/04_Functions/Functions.ipynb) (Brent)
+* 14:00-15:00 [Comprehensions and basic functional programming](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/05_Comprehensions_FP/Comprehensions%20and%20basic%20functional%20programming.ipynb) (Carlos)
 * 15:00-15:15 **Break**
-* 15:15-16:00 Modules (Brent)
+* 15:15-16:00 [Modules](https://github.com/edmondb/LRC_Spring17/blob/master/Lectures/Day_1/06_Modules/Modules.ipynb) (Brent)
 * 16:00-17:00 Introduction to Object Oriented Programming (Brent)
 
 ## **Day 2: Data Manipulations**
